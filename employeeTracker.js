@@ -56,6 +56,7 @@ const mainMenu = [
     'Add A Role',
     'Add An Employee',
     'Update An Employee Role',
+    'CLOSE APPLICATION'
 ]
 
 const promptUser = () => {
@@ -258,20 +259,10 @@ const selectCase = (answer) => {
             updateRole();
             break;
 
-        case "Display All Employees By Manager":
-            console.log("Display All Employees By Manager");
-            break;
-
-        case "Remove Employee":
-            console.log("Remove Employee");
-            break;
-
-        case "Update Employee Manager":
-            console.log("Update Employee Manager");
-            break;
-
-        case "Remove Role":
-            console.log("Remove Role");
+        case "CLOSE APPLICATION":
+            con.end();
+            console.log("Have a Nice Day ... !!!");
+            process.exit();
             break;
 
         default:

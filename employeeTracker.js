@@ -12,8 +12,8 @@ const con = mysql.createConnection(
     console.log('Connected.')
 );
 
-const getEmployeeIdFromName = async (empName) => {
-    const name = empName.split(" ");
+const getEmployeeIdFromName = async (employeeName) => {
+    const name = employeeName.split(" ");
     query = "SELECT id FROM employee WHERE ((first_name = ?) AND (last_name = ?));";
     const [rows, field] = await con.promise().query(query, name);
     const id = rows[0].id;

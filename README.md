@@ -12,6 +12,8 @@ A command-line application that manages a company's employee database.
 
  * [Walkthrough](#walkthrough)
 
+ * [Screenshot](#screenshot)
+
  * [License](#license)
 
  * [Links](#links)
@@ -39,6 +41,10 @@ A command-line application that manages a company's employee database.
   - Update An Employee Role
 
 ## Walkthrough
+Walk through video here - [Youtube Link](https://youtu.be/80qtOsBajLA)
+
+## Screenshot
+<img src="./assets/images/312.jpg">
 
 ## Contributing 
 Please read the installation section. 

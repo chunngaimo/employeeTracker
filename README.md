@@ -1,7 +1,11 @@
 # Employee Tracker [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
+-------------------------
+
 ## Description
 A command-line application that manages a company's employee database.
+
+-------------------------
 
 ## Table of Contents
  * [Installation](#installation)
@@ -20,6 +24,8 @@ A command-line application that manages a company's employee database.
  
  * [Questions](#questions)
 
+-------------------------
+
 ## Installation
   - Clone the GitHub repository onto your local machine
   - Open the repository via command line
@@ -28,6 +34,7 @@ A command-line application that manages a company's employee database.
   - npm init
   - Make sure the repository has a package.json with the dependencies required. 
 
+-------------------------
 
 ## Usage
   - Use node command npm start to run the appliacation
@@ -40,21 +47,33 @@ A command-line application that manages a company's employee database.
   - Add An Employee
   - Update An Employee Role
 
+-------------------------
+
 ## Walkthrough
 Walk through video here - [Youtube Link](https://youtu.be/80qtOsBajLA)
+
+-------------------------
 
 ## Screenshot
 <img src="./assets/images/312.jpg">
 
+-------------------------
+
 ## Contributing 
 Please read the installation section. 
+
+-------------------------
 
 ## Links
 
 - [GitHub Repository](https://github.com/chunngaimo/employeeTracker)
 
+-------------------------
+
 ## License
 License with MIT
+
+-------------------------
 
 ## Questions
 Feel free to ask any questions and contact me at wjy16888888@gmail.com. 

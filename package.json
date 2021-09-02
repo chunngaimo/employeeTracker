@@ -1,11 +1,11 @@
 {
-    "name": "employee-tracker",
+    "name": "employeetracker",
     "version": "1.0.0",
     "description": "A command-line application to manage a company's employee database.",
-    "main": "employeeTracker.js",
+    "main": "employeetracker.js",
     "scripts": {
         "test": "echo \"Error: no test specified\" && exit 1",
-        "start": "node employeeTracker.js"
+        "start": "node employeetracker.js"
     },
     "repository": {
         "type": "git",
